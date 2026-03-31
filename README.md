@@ -34,12 +34,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       src="https://github-readme-stats.vercel.app/api?username=PaoloMartinEllema&show_icons=true&theme=transparent&hide_border=true"
       alt="PaoloMartinEllema's GitHub stats"
     />
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
