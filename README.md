@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/a7ul/github-readme-streak-stats">
+  <!-- <a href="https://github.com/a7ul/github-readme-streak-stats"> -->
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=PaoloMartinEllema&theme=transparent&hide_border=true"
       alt="PaoloMartinEllema's GitHub streak"
